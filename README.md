@@ -41,6 +41,7 @@ Hệ thống nhận diện các hành động đáng ngờ qua camera như:
 Hệ thống phát hiện gian lận trong thi cử sử dụng YOLOv11, với các bước chính như sau:
 
 1️⃣ S0: Input – Nhận video đầu vào từ camera giám sát lớp học.
+
 2️⃣ S1: Processing – Tiền xử lý dữ liệu, chuẩn hóa và tăng cường dữ liệu.
 3️⃣ S2: Detection – Nhận diện học sinh, phát hiện hành vi gian lận bằng mô hình YOLOv11.
 4️⃣ S3: Alert System – Cảnh báo gian lận theo thời gian thực.
