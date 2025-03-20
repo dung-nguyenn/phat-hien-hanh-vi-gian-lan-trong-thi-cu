@@ -39,9 +39,10 @@ Hệ thống nhận diện các hành động đáng ngờ qua camera như:
 
 ## 🚀 Hướng dẫn cài đặt  
 
-### 🔹 1️⃣ Clone Repository  
+
 
 ```sh
+### 🔹 1️⃣ Clone Repository  
 git clone https://github.com/dung-nguyenn/phat-hien-hanh-vi-gian-lan-trong-thi-cu.git
 cd phat-hien-hanh-vi-gian-lan-trong-thi-cu
 🔹 2️⃣ Cài đặt môi trường Python
