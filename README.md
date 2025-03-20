@@ -54,6 +54,24 @@ Hệ thống phát hiện gian lận trong thi cử sử dụng YOLOv11, với c
 
 ---
 
+## 📡 Kiến trúc hệ thống  
+
+Hệ thống phát hiện gian lận được triển khai với các thành phần chính sau:  
+
+1️⃣ **Camera giám sát** – Ghi lại hình ảnh trong lớp học. 
+
+2️⃣ **Máy tính xử lý** – Chạy mô hình YOLOv11 để nhận diện hành vi gian lận.  
+
+3️⃣ **Hệ thống mạng & lưu trữ** – Truyền và lưu trữ dữ liệu trên cloud hoặc server nội bộ. 
+
+4️⃣ **Màn hình giám sát** – Hiển thị cảnh báo, thống kê và báo cáo.  
+
+![image](https://github.com/user-attachments/assets/4183be86-6662-47ac-bc35-346b43419743)
+
+
+Dưới đây là sơ đồ kiến trúc hệ thống:  
+
+
 ## 🚀 Hướng dẫn cài đặt  
 
 
